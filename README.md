@@ -1,26 +1,42 @@
 ## i stoped support this project
 
+
+| No.  | Name | Link |
+| ------------- | ------------- | ------------- |
+| 1  | What's New  | https://github.com/EsmailELBoBDev2/Folder-Locker----------------------------------------  |
+| 2  | How To Install| https://github.com/EsmailELBoBDev2/Folder-Locker----------------------------------------1  |
+| 3  | Downloads  | https://github.com/EsmailELBoBDev2/Folder-Locker----------------------------------------2  |
+| 4  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/Folder-Locker----------------------------------------3  |
+| 5  | Supporters  | https://github.com/EsmailELBoBDev2/Folder-Locker----------------------------------------4  |
+| 6  | My Other Projects  | https://github.com/EsmailELBoBDev2/Folder-Locker----------------------------------------5  |
+| 7  | Thx!  | https://github.com/EsmailELBoBDev2/Folder-Locker----------------------------------------6  |
+## ----------------------------------------
 # What's New ?
 
 1-**Nothing...it's same version from NPP project**
 
 ## ----------------------------------------
+# How To Install
 
+1-**Download Projects File** *https://bit.ly/2ww1QQk*
+
+2-**Download Visual Studio 2013** (*Skip This, If You Already Have One*) *https://bit.ly/2wz33X5*
+
+3-**Extract Files** (*On Dektop As Example*)
+
+4-**Open** *.sin* **File Type**
+## ----------------------------------------
 # Downloads (Almost Links Uploaded By Me)
 
-1-**The VB Project**(*.sln*): ***https://github.com/EsmailELBoBDev2/Folder-Locker/blob/master/Folder%20Locker%20and%20Unlocker%20PRO.rar*** (***Uploaded On Github Servers***)
+1-**The VB Project**(*.sln*): ***https://bit.ly/2ww1QQk*** (***Uploaded On Github Servers***)
 
-2-**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o*** (***Uploaded On Atom/Github Servers***)
+2-**Visual Studio**(*.iso*): **https://bit.ly/2wz33X5**
 ## ----------------------------------------
-# Support
+# Buy Me A Coffee (*Support*)
 
-1-**PayPal**: ***www.paypal.me/esmailelbobpro1***
-
-2-**Patreon**: ***https://www.patreon.com/esmailelbob***
-
-3-**Bitcoin**: ***14XPxLPnHxKKRxUGZ4mHHpa1ggNFa1bZaZ***
+**Buy Me A Coffee**: ***https://buymeacoff.ee/esmailelbobdev2***
 ## ----------------------------------------
-# Partners
+# Supporters
 
 **Support Me To Add Your Name Here**
 ## ----------------------------------------
