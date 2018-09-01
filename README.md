@@ -6,10 +6,11 @@
 
 ## ----------------------------------------
 
-# Downloads (All Links Uploaded By Me)
+# Downloads (Almost Links Uploaded By Me)
 
 1-**The VB Project**(*.sln*): ***https://github.com/EsmailELBoBDev2/Folder-Locker/blob/master/Folder%20Locker%20and%20Unlocker%20PRO.rar*** (***Uploaded On Github Servers***)
 
+2-**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o*** (***Uploaded On Atom/Github Servers***)
 ## ----------------------------------------
 # Support
 
