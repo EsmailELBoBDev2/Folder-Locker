@@ -38,7 +38,7 @@
 ## ----------------------------------------
 # Supporters
 
-**Support Me To Add Your Name Here**
+**Support Me To Add Your Name Here** :stuck_out_tongue:
 ## ----------------------------------------
 
 # My Other Projects
@@ -46,4 +46,4 @@
 **https://github.com/EsmailELBoBDev2?tab=repositories**
 ## ----------------------------------------
 
-# Thx For Used My Program :)
+# Thx For Used My Program :smiley:
