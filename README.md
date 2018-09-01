@@ -4,12 +4,12 @@
 | No.  | Name | Link |
 | ------------- | ------------- | ------------- |
 | 1  | What's New  | https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------  |
-| 2  | How To Install| https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------1  |
-| 3  | Downloads  | https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------2  |
-| 4  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------3  |
-| 5  | Supporters  | https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------4  |
-| 6  | My Other Projects  | https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------5  |
-| 7  | Thx!  | https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------6  |
+| 2  | How To Install| https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------1  |
+| 3  | Downloads  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------2  |
+| 4  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------3  |
+| 5  | Supporters  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------4  |
+| 6  | My Other Projects  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------5  |
+| 7  | Thx!  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------6  |
 ## ----------------------------------------
 # What's New ?
 
