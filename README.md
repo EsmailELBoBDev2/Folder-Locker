@@ -32,10 +32,15 @@
 
 2-**Visual Studio**(*.iso*): **https://bit.ly/2wz33X5**
 ## ----------------------------------------
-# Buy Me A Coffee (*Support*)
+# Support
+**From Buy Me A Coffee Website**: ***https://buymeacoff.ee/esmailelbobdev2***
 
-**Buy Me A Coffee**: ***https://buymeacoff.ee/esmailelbobdev2***
+or
+
+**From Brave Browser** *Referral Link*: ***https://brave.com/esm389***
 ## ----------------------------------------
+
+
 # Supporters
 
 **Support Me To Add Your Name Here** :stuck_out_tongue:
