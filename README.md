@@ -18,9 +18,9 @@
 ## ----------------------------------------
 # How To Install
 
-1-**Download Projects File** *https://bit.ly/2ww1QQk*
+1-**Download Projects File**: *https://bit.ly/2ww1QQk*
 
-2-**Download Visual Studio 2013** (*Skip This, If You Already Have One*) *https://bit.ly/2wz33X5*
+2-**Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://bit.ly/2wz33X5*
 
 3-**Extract Files** (*On Dektop As Example*)
 
@@ -28,7 +28,7 @@
 ## ----------------------------------------
 # Downloads (Almost Links Uploaded By Me)
 
-1-**The VB Project**(*.rar*): ***https://bit.ly/2Qv1zFk*** (***Uploaded On Github Servers***)
+1-**The VB Project**(*.rar*): ***https://bit.ly/2Qv1zFk*** (***Uploaded On Github Servers***) (**Remove readme.md** *file*)
 
 2-**Visual Studio**(*.iso*): **https://bit.ly/2wz33X5**
 ## ----------------------------------------
