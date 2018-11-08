@@ -39,8 +39,6 @@ or
 
 **From Brave Browser** *Referral Link*: ***https://brave.com/esm389***
 ## ----------------------------------------
-
-
 # Supporters
 
 **Support Me To Add Your Name Here** :stuck_out_tongue:
