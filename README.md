@@ -28,7 +28,7 @@
 ## ----------------------------------------
 # Downloads (Almost Links Uploaded By Me)
 
-1-**The VB Project**(*.sln*): ***https://bit.ly/2ww1QQk*** (***Uploaded On Github Servers***)
+1-**The VB Project**(*.rar*): ***https://bit.ly/2Qv1zFk*** (***Uploaded On Github Servers***)
 
 2-**Visual Studio**(*.iso*): **https://bit.ly/2wz33X5**
 ## ----------------------------------------
