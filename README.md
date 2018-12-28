@@ -10,7 +10,7 @@
 | 7  | Thx!  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------6  |
 ## ----------------------------------------
 # What's New ?
-1-**Nothing...it's same version from NPP project**
+1. **Nothing...it's same version from NPP project**
 ## ----------------------------------------
 # How To Install
 1. **Download Project Files**(*Source Code*): *https://bit.ly/2LIMOgA*
