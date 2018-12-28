@@ -21,10 +21,10 @@
 
 4. **Open** *.sin* **File Type**
 ## ----------------------------------------
-# Downloads (Almost Links Uploaded By Me)
-1. **The VB Project**(*.rar*): ***https://bit.ly/2Qv1zFk*** (**Remove readme.md** *file*)
+# Downloads
+**The VB Project**(*.rar*): ***https://bit.ly/2Qv1zFk*** (**Remove readme.md** *file*)
 
-2. **Visual Studio**(*.iso*): **https://bit.ly/2wz33X5**
+**Visual Studio**(*.iso*): **https://bit.ly/2wz33X5**
 ## ----------------------------------------
 # Support
 **Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
