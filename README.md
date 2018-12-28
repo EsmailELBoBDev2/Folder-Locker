@@ -24,7 +24,9 @@
 # Downloads
 **The VB Project**(*.rar*): ***https://bit.ly/2Qv1zFk*** (**Remove readme.md** *file*)
 
-**Visual Studio**(*.iso*): **https://bit.ly/2wz33X5**
+**Visual Studio**(*.iso*): ***https://bit.ly/2wz33X5***
+
+**The FL App**(*.exe*): ***https://bit.ly/2BMXiH1***
 ## ----------------------------------------
 # Support
 **Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
