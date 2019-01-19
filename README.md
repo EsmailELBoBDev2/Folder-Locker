@@ -2,7 +2,7 @@
 | #  | Name | Link |
 | ------------- | ------------- | ------------- |
 | 1  | What's New  | https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------  |
-| 2  | How To Install| https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------1  |
+| 2  | How To Edit Codes| https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------1  |
 | 3  | Downloads  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------2  |
 | 4  | Support  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------3  |
 | 5  | Supporters  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------4  |
@@ -12,7 +12,7 @@
 # What's New ?
 1. **Nothing...it's same version from NPP project**
 ## ----------------------------------------
-# How To Install
+# How To Edit Codes
 1. ***Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git`
 
 2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://1n.pm/hCbjZ*
