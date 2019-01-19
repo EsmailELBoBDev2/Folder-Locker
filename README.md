@@ -13,20 +13,20 @@
 1. **Nothing...it's same version from NPP project**
 ## ----------------------------------------
 # How To Install
-1. **Download Project Files**(*Source Code*): *https://bit.ly/2LIMOgA*
+1. ***Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git`
 
-2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://bit.ly/2wz33X5*
+2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://1n.pm/hCbjZ*
 
 3. **Extract Files** (*On Dektop As Example*)
 
 4. **Open** *.sin* **File Type**
 ## ----------------------------------------
 # Downloads
-**The VB Project**(*.rar*): ***https://bit.ly/2Qv1zFk*** (**Remove readme.md** *file*)
+**Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git` (**Remove readme.md** *file*)
 
-**Visual Studio**(*.iso*): ***https://bit.ly/2wz33X5***
+**Visual Studio**(*.iso*): ***https://1n.pm/hCbjZ***
 
-**The FL App**(*.exe*): ***https://bit.ly/2BMXiH1***
+**The FL App**(*.exe*): ***https://1n.pm/i8A9y***
 ## ----------------------------------------
 # Support
 **Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
