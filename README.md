@@ -14,7 +14,7 @@
 1. **Nothing...it's same version from NPP project**
 ## ----------------------------------------
 # How To Edit Codes
-1. ***Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git`
+1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git`
 
 2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://1n.pm/hCbjZ*
 
