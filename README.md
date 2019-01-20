@@ -23,7 +23,7 @@
 4. **Open** *.sin* **File Type**
 ## ----------------------------------------
 # Downloads
-**Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git` (**Remove readme.md** *file*)
+**Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git` (*You Not Need*: **readme.md** *&* **license** *files*)
 
 **Visual Studio**(*.iso*): ***https://1n.pm/hCbjZ***
 
