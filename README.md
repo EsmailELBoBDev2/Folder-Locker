@@ -6,8 +6,9 @@
 | 3  | Downloads  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------2  |
 | 4  | Support  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------3  |
 | 5  | Supporters  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------4  |
-| 6  | My Other Projects  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------5  |
-| 7  | Thx!  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------6  |
+| 6  | License  | https://github.com/EsmailELBoBDev2/Folder-Locker/blob/master/LICENSE |
+| 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------5  |
+| 8  | Thx!  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------6  |
 ## ----------------------------------------
 # What's New ?
 1. **Nothing...it's same version from NPP project**
