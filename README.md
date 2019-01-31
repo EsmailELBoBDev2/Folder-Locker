@@ -6,7 +6,7 @@
 | 3  | Downloads  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------2  |
 | 4  | Support  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------3  |
 | 5  | Supporters  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------4  |
-| 6  | License  | https://github.com/EsmailELBoBDev2/Folder-Locker/blob/master/LICENSE |
+| 6  | License  | https://github.com/EsmailELBoBDev2/Folder-Locker/blob/master/COPYING |
 | 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------5  |
 | 8  | Thx!  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------6  |
 ## ----------------------------------------
