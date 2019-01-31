@@ -16,7 +16,7 @@
 # How To Edit Codes
 1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git`
 
-2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://1n.pm/hCbjZ*
+2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://yerl.org/5PJau*
 
 3. **Extract Files** (*On Dektop As Example*)
 
@@ -25,9 +25,9 @@
 # Downloads
 **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git` (*You Not Need*: **README.md** *&* **LICENSE** *files*)
 
-**Visual Studio**(*.iso*): ***https://1n.pm/hCbjZ***
+**Visual Studio**(*.iso*): ***https://yerl.org/TnkMy***
 
-**The FL App**(*.exe*): ***https://1n.pm/i8A9y***
+**The FL App**(*.exe*): ***https://yerl.org/DhsIr***
 ## ----------------------------------------
 # Support
 **Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
