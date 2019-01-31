@@ -23,7 +23,7 @@
 4. **Open** *.sin* **File Type**
 ## ----------------------------------------
 # Downloads
-**Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git` (*You Not Need*: **README.md** *&* **LICENSE** *files*)
+**Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/Folder-Locker.git` (*You Not Need*: **README.md** *&* **COPYING** *files*)
 
 **Visual Studio**(*.iso*): ***https://yerl.org/TnkMy***
 
