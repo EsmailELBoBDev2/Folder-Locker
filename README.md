@@ -4,11 +4,9 @@
 | 1  | What's New  | https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------  |
 | 2  | How To Edit Codes| https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------1  |
 | 3  | Downloads  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------2  |
-| 4  | Support  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------3  |
-| 5  | Supporters  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------4  |
-| 6  | License  | https://github.com/EsmailELBoBDev2/Folder-Locker/blob/master/COPYING |
-| 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------5  |
-| 8  | Thx!  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------6  |
+| 4  | License  | https://github.com/EsmailELBoBDev2/Folder-Locker/blob/master/COPYING |
+| 5  | My Other Projects  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------5  |
+| 6  | Thx!  | https://github.com/EsmailELBoBDev2/Folder-Locker#-----------------------------------------6  |
 ## ----------------------------------------
 # What's New ?
 1. **Nothing...it's same version from NPP project**
@@ -29,17 +27,12 @@
 
 **The FL App**(*.exe*): ***https://yerl.org/DhsIr***
 ## ----------------------------------------
-# Support
-**Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
-## ----------------------------------------
-# Supporters
-
-**Support Me To Add Your Name Here** :stuck_out_tongue:
-## ----------------------------------------
-
 # My Other Projects
 
 **https://github.com/EsmailELBoBDev2?tab=repositories** *,* **https://gitlab.com/users/EsmailELBoBDev2/projects**
 ## ----------------------------------------
 
-# Thx For Used My Program :smiley:
+# Thx For Use My Projects :smiley:
+
+
+
