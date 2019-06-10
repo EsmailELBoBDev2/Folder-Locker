@@ -1,4 +1,4 @@
-## i stoped support this project
+## Stopped supporting this project!, sorry
 | #  | Name | Link |
 | ------------- | ------------- | ------------- |
 | 1  | What's New  | https://github.com/EsmailELBoBDev2/Folder-Locker#----------------------------------------  |
